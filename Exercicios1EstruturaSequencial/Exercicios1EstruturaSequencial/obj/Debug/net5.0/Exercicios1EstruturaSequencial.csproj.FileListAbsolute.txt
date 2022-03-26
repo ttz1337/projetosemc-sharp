@@ -1,0 +1,16 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios1EstruturaSequencial\Exercicios1EstruturaSequencial\bin\Debug\net5.0\Exercicios1EstruturaSequencial.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios1EstruturaSequencial\Exercicios1EstruturaSequencial\bin\Debug\net5.0\Exercicios1EstruturaSequencial.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios1EstruturaSequencial\Exercicios1EstruturaSequencial\bin\Debug\net5.0\Exercicios1EstruturaSequencial.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios1EstruturaSequencial\Exercicios1EstruturaSequencial\bin\Debug\net5.0\Exercicios1EstruturaSequencial.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios1EstruturaSequencial\Exercicios1EstruturaSequencial\bin\Debug\net5.0\Exercicios1EstruturaSequencial.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios1EstruturaSequencial\Exercicios1EstruturaSequencial\bin\Debug\net5.0\ref\Exercicios1EstruturaSequencial.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios1EstruturaSequencial\Exercicios1EstruturaSequencial\bin\Debug\net5.0\Exercicios1EstruturaSequencial.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios1EstruturaSequencial\Exercicios1EstruturaSequencial\obj\Debug\net5.0\Exercicios1EstruturaSequencial.csprojAssemblyReference.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios1EstruturaSequencial\Exercicios1EstruturaSequencial\obj\Debug\net5.0\Exercicios1EstruturaSequencial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios1EstruturaSequencial\Exercicios1EstruturaSequencial\obj\Debug\net5.0\Exercicios1EstruturaSequencial.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios1EstruturaSequencial\Exercicios1EstruturaSequencial\obj\Debug\net5.0\Exercicios1EstruturaSequencial.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios1EstruturaSequencial\Exercicios1EstruturaSequencial\obj\Debug\net5.0\Exercicios1EstruturaSequencial.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios1EstruturaSequencial\Exercicios1EstruturaSequencial\obj\Debug\net5.0\Exercicios1EstruturaSequencial.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios1EstruturaSequencial\Exercicios1EstruturaSequencial\obj\Debug\net5.0\ref\Exercicios1EstruturaSequencial.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios1EstruturaSequencial\Exercicios1EstruturaSequencial\obj\Debug\net5.0\Exercicios1EstruturaSequencial.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios1EstruturaSequencial\Exercicios1EstruturaSequencial\obj\Debug\net5.0\Exercicios1EstruturaSequencial.genruntimeconfig.cache

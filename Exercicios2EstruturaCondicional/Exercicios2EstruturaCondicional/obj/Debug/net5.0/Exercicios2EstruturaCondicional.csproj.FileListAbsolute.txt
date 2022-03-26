@@ -1,0 +1,16 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaCondicional\Exercicios2EstruturaCondicional\bin\Debug\net5.0\Exercicios2EstruturaCondicional.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaCondicional\Exercicios2EstruturaCondicional\bin\Debug\net5.0\Exercicios2EstruturaCondicional.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaCondicional\Exercicios2EstruturaCondicional\bin\Debug\net5.0\Exercicios2EstruturaCondicional.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaCondicional\Exercicios2EstruturaCondicional\bin\Debug\net5.0\Exercicios2EstruturaCondicional.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaCondicional\Exercicios2EstruturaCondicional\bin\Debug\net5.0\Exercicios2EstruturaCondicional.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaCondicional\Exercicios2EstruturaCondicional\bin\Debug\net5.0\ref\Exercicios2EstruturaCondicional.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaCondicional\Exercicios2EstruturaCondicional\bin\Debug\net5.0\Exercicios2EstruturaCondicional.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaCondicional\Exercicios2EstruturaCondicional\obj\Debug\net5.0\Exercicios2EstruturaCondicional.csprojAssemblyReference.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaCondicional\Exercicios2EstruturaCondicional\obj\Debug\net5.0\Exercicios2EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaCondicional\Exercicios2EstruturaCondicional\obj\Debug\net5.0\Exercicios2EstruturaCondicional.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaCondicional\Exercicios2EstruturaCondicional\obj\Debug\net5.0\Exercicios2EstruturaCondicional.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaCondicional\Exercicios2EstruturaCondicional\obj\Debug\net5.0\Exercicios2EstruturaCondicional.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaCondicional\Exercicios2EstruturaCondicional\obj\Debug\net5.0\Exercicios2EstruturaCondicional.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaCondicional\Exercicios2EstruturaCondicional\obj\Debug\net5.0\ref\Exercicios2EstruturaCondicional.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaCondicional\Exercicios2EstruturaCondicional\obj\Debug\net5.0\Exercicios2EstruturaCondicional.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaCondicional\Exercicios2EstruturaCondicional\obj\Debug\net5.0\Exercicios2EstruturaCondicional.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaWhile\Exercicios2EstruturaWhile\bin\Debug\net5.0\Exercicios2EstruturaWhile.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaWhile\Exercicios2EstruturaWhile\bin\Debug\net5.0\Exercicios2EstruturaWhile.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaWhile\Exercicios2EstruturaWhile\bin\Debug\net5.0\Exercicios2EstruturaWhile.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaWhile\Exercicios2EstruturaWhile\bin\Debug\net5.0\Exercicios2EstruturaWhile.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaWhile\Exercicios2EstruturaWhile\bin\Debug\net5.0\Exercicios2EstruturaWhile.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaWhile\Exercicios2EstruturaWhile\bin\Debug\net5.0\ref\Exercicios2EstruturaWhile.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaWhile\Exercicios2EstruturaWhile\bin\Debug\net5.0\Exercicios2EstruturaWhile.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaWhile\Exercicios2EstruturaWhile\obj\Debug\net5.0\Exercicios2EstruturaWhile.csprojAssemblyReference.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaWhile\Exercicios2EstruturaWhile\obj\Debug\net5.0\Exercicios2EstruturaWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaWhile\Exercicios2EstruturaWhile\obj\Debug\net5.0\Exercicios2EstruturaWhile.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaWhile\Exercicios2EstruturaWhile\obj\Debug\net5.0\Exercicios2EstruturaWhile.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaWhile\Exercicios2EstruturaWhile\obj\Debug\net5.0\Exercicios2EstruturaWhile.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaWhile\Exercicios2EstruturaWhile\obj\Debug\net5.0\Exercicios2EstruturaWhile.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaWhile\Exercicios2EstruturaWhile\obj\Debug\net5.0\ref\Exercicios2EstruturaWhile.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaWhile\Exercicios2EstruturaWhile\obj\Debug\net5.0\Exercicios2EstruturaWhile.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios2EstruturaWhile\Exercicios2EstruturaWhile\obj\Debug\net5.0\Exercicios2EstruturaWhile.genruntimeconfig.cache

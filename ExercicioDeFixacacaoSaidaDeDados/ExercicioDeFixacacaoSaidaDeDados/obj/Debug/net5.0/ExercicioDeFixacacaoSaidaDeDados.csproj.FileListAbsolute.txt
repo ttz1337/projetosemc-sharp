@@ -1,0 +1,16 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ExercicioDeFixacacaoSaidaDeDados\ExercicioDeFixacacaoSaidaDeDados\bin\Debug\net5.0\ExercicioDeFixacacaoSaidaDeDados.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ExercicioDeFixacacaoSaidaDeDados\ExercicioDeFixacacaoSaidaDeDados\bin\Debug\net5.0\ExercicioDeFixacacaoSaidaDeDados.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ExercicioDeFixacacaoSaidaDeDados\ExercicioDeFixacacaoSaidaDeDados\bin\Debug\net5.0\ExercicioDeFixacacaoSaidaDeDados.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ExercicioDeFixacacaoSaidaDeDados\ExercicioDeFixacacaoSaidaDeDados\bin\Debug\net5.0\ExercicioDeFixacacaoSaidaDeDados.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ExercicioDeFixacacaoSaidaDeDados\ExercicioDeFixacacaoSaidaDeDados\bin\Debug\net5.0\ExercicioDeFixacacaoSaidaDeDados.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ExercicioDeFixacacaoSaidaDeDados\ExercicioDeFixacacaoSaidaDeDados\bin\Debug\net5.0\ref\ExercicioDeFixacacaoSaidaDeDados.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ExercicioDeFixacacaoSaidaDeDados\ExercicioDeFixacacaoSaidaDeDados\bin\Debug\net5.0\ExercicioDeFixacacaoSaidaDeDados.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ExercicioDeFixacacaoSaidaDeDados\ExercicioDeFixacacaoSaidaDeDados\obj\Debug\net5.0\ExercicioDeFixacacaoSaidaDeDados.csprojAssemblyReference.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ExercicioDeFixacacaoSaidaDeDados\ExercicioDeFixacacaoSaidaDeDados\obj\Debug\net5.0\ExercicioDeFixacacaoSaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ExercicioDeFixacacaoSaidaDeDados\ExercicioDeFixacacaoSaidaDeDados\obj\Debug\net5.0\ExercicioDeFixacacaoSaidaDeDados.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ExercicioDeFixacacaoSaidaDeDados\ExercicioDeFixacacaoSaidaDeDados\obj\Debug\net5.0\ExercicioDeFixacacaoSaidaDeDados.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ExercicioDeFixacacaoSaidaDeDados\ExercicioDeFixacacaoSaidaDeDados\obj\Debug\net5.0\ExercicioDeFixacacaoSaidaDeDados.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ExercicioDeFixacacaoSaidaDeDados\ExercicioDeFixacacaoSaidaDeDados\obj\Debug\net5.0\ExercicioDeFixacacaoSaidaDeDados.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ExercicioDeFixacacaoSaidaDeDados\ExercicioDeFixacacaoSaidaDeDados\obj\Debug\net5.0\ref\ExercicioDeFixacacaoSaidaDeDados.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ExercicioDeFixacacaoSaidaDeDados\ExercicioDeFixacacaoSaidaDeDados\obj\Debug\net5.0\ExercicioDeFixacacaoSaidaDeDados.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ExercicioDeFixacacaoSaidaDeDados\ExercicioDeFixacacaoSaidaDeDados\obj\Debug\net5.0\ExercicioDeFixacacaoSaidaDeDados.genruntimeconfig.cache

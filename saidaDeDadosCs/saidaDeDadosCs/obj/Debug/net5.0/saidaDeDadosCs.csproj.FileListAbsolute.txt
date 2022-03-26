@@ -1,0 +1,15 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\saidaDeDadosCs\saidaDeDadosCs\bin\Debug\net5.0\saidaDeDadosCs.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\saidaDeDadosCs\saidaDeDadosCs\bin\Debug\net5.0\saidaDeDadosCs.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\saidaDeDadosCs\saidaDeDadosCs\bin\Debug\net5.0\saidaDeDadosCs.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\saidaDeDadosCs\saidaDeDadosCs\bin\Debug\net5.0\saidaDeDadosCs.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\saidaDeDadosCs\saidaDeDadosCs\bin\Debug\net5.0\saidaDeDadosCs.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\saidaDeDadosCs\saidaDeDadosCs\bin\Debug\net5.0\ref\saidaDeDadosCs.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\saidaDeDadosCs\saidaDeDadosCs\bin\Debug\net5.0\saidaDeDadosCs.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\saidaDeDadosCs\saidaDeDadosCs\obj\Debug\net5.0\saidaDeDadosCs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\saidaDeDadosCs\saidaDeDadosCs\obj\Debug\net5.0\saidaDeDadosCs.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\saidaDeDadosCs\saidaDeDadosCs\obj\Debug\net5.0\saidaDeDadosCs.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\saidaDeDadosCs\saidaDeDadosCs\obj\Debug\net5.0\saidaDeDadosCs.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\saidaDeDadosCs\saidaDeDadosCs\obj\Debug\net5.0\saidaDeDadosCs.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\saidaDeDadosCs\saidaDeDadosCs\obj\Debug\net5.0\ref\saidaDeDadosCs.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\saidaDeDadosCs\saidaDeDadosCs\obj\Debug\net5.0\saidaDeDadosCs.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\saidaDeDadosCs\saidaDeDadosCs\obj\Debug\net5.0\saidaDeDadosCs.genruntimeconfig.cache

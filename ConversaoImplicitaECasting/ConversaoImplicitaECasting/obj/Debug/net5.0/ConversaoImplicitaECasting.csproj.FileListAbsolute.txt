@@ -1,0 +1,15 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net5.0\ConversaoImplicitaECasting.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net5.0\ConversaoImplicitaECasting.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net5.0\ConversaoImplicitaECasting.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net5.0\ConversaoImplicitaECasting.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net5.0\ConversaoImplicitaECasting.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net5.0\ref\ConversaoImplicitaECasting.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net5.0\ConversaoImplicitaECasting.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net5.0\ConversaoImplicitaECasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net5.0\ConversaoImplicitaECasting.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net5.0\ConversaoImplicitaECasting.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net5.0\ConversaoImplicitaECasting.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net5.0\ConversaoImplicitaECasting.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net5.0\ref\ConversaoImplicitaECasting.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net5.0\ConversaoImplicitaECasting.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net5.0\ConversaoImplicitaECasting.genruntimeconfig.cache

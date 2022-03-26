@@ -1,0 +1,15 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_02Exercicio02Classe\_02Exercicio02Classe\bin\Debug\net5.0\_02Exercicio02Classe.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_02Exercicio02Classe\_02Exercicio02Classe\bin\Debug\net5.0\_02Exercicio02Classe.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_02Exercicio02Classe\_02Exercicio02Classe\bin\Debug\net5.0\_02Exercicio02Classe.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_02Exercicio02Classe\_02Exercicio02Classe\bin\Debug\net5.0\_02Exercicio02Classe.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_02Exercicio02Classe\_02Exercicio02Classe\bin\Debug\net5.0\_02Exercicio02Classe.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_02Exercicio02Classe\_02Exercicio02Classe\bin\Debug\net5.0\ref\_02Exercicio02Classe.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_02Exercicio02Classe\_02Exercicio02Classe\bin\Debug\net5.0\_02Exercicio02Classe.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_02Exercicio02Classe\_02Exercicio02Classe\obj\Debug\net5.0\_02Exercicio02Classe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_02Exercicio02Classe\_02Exercicio02Classe\obj\Debug\net5.0\_02Exercicio02Classe.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_02Exercicio02Classe\_02Exercicio02Classe\obj\Debug\net5.0\_02Exercicio02Classe.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_02Exercicio02Classe\_02Exercicio02Classe\obj\Debug\net5.0\_02Exercicio02Classe.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_02Exercicio02Classe\_02Exercicio02Classe\obj\Debug\net5.0\_02Exercicio02Classe.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_02Exercicio02Classe\_02Exercicio02Classe\obj\Debug\net5.0\ref\_02Exercicio02Classe.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_02Exercicio02Classe\_02Exercicio02Classe\obj\Debug\net5.0\_02Exercicio02Classe.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_02Exercicio02Classe\_02Exercicio02Classe\obj\Debug\net5.0\_02Exercicio02Classe.genruntimeconfig.cache

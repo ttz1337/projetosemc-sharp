@@ -1,0 +1,16 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Desafio036\Desafio036\bin\Debug\net5.0\Desafio036.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Desafio036\Desafio036\bin\Debug\net5.0\Desafio036.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Desafio036\Desafio036\bin\Debug\net5.0\Desafio036.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Desafio036\Desafio036\bin\Debug\net5.0\Desafio036.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Desafio036\Desafio036\bin\Debug\net5.0\Desafio036.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Desafio036\Desafio036\bin\Debug\net5.0\ref\Desafio036.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Desafio036\Desafio036\bin\Debug\net5.0\Desafio036.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Desafio036\Desafio036\obj\Debug\net5.0\Desafio036.csprojAssemblyReference.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Desafio036\Desafio036\obj\Debug\net5.0\Desafio036.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Desafio036\Desafio036\obj\Debug\net5.0\Desafio036.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Desafio036\Desafio036\obj\Debug\net5.0\Desafio036.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Desafio036\Desafio036\obj\Debug\net5.0\Desafio036.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Desafio036\Desafio036\obj\Debug\net5.0\Desafio036.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Desafio036\Desafio036\obj\Debug\net5.0\ref\Desafio036.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Desafio036\Desafio036\obj\Debug\net5.0\Desafio036.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Desafio036\Desafio036\obj\Debug\net5.0\Desafio036.genruntimeconfig.cache

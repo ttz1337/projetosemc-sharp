@@ -1,0 +1,16 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OrientaçãoAObjIntro\OrientaçãoAObjIntro\bin\Debug\net5.0\OrientaçãoAObjIntro.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OrientaçãoAObjIntro\OrientaçãoAObjIntro\bin\Debug\net5.0\OrientaçãoAObjIntro.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OrientaçãoAObjIntro\OrientaçãoAObjIntro\bin\Debug\net5.0\OrientaçãoAObjIntro.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OrientaçãoAObjIntro\OrientaçãoAObjIntro\bin\Debug\net5.0\OrientaçãoAObjIntro.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OrientaçãoAObjIntro\OrientaçãoAObjIntro\bin\Debug\net5.0\OrientaçãoAObjIntro.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OrientaçãoAObjIntro\OrientaçãoAObjIntro\bin\Debug\net5.0\ref\OrientaçãoAObjIntro.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OrientaçãoAObjIntro\OrientaçãoAObjIntro\bin\Debug\net5.0\OrientaçãoAObjIntro.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OrientaçãoAObjIntro\OrientaçãoAObjIntro\obj\Debug\net5.0\OrientaçãoAObjIntro.csprojAssemblyReference.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OrientaçãoAObjIntro\OrientaçãoAObjIntro\obj\Debug\net5.0\OrientaçãoAObjIntro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OrientaçãoAObjIntro\OrientaçãoAObjIntro\obj\Debug\net5.0\OrientaçãoAObjIntro.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OrientaçãoAObjIntro\OrientaçãoAObjIntro\obj\Debug\net5.0\OrientaçãoAObjIntro.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OrientaçãoAObjIntro\OrientaçãoAObjIntro\obj\Debug\net5.0\OrientaçãoAObjIntro.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OrientaçãoAObjIntro\OrientaçãoAObjIntro\obj\Debug\net5.0\OrientaçãoAObjIntro.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OrientaçãoAObjIntro\OrientaçãoAObjIntro\obj\Debug\net5.0\ref\OrientaçãoAObjIntro.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OrientaçãoAObjIntro\OrientaçãoAObjIntro\obj\Debug\net5.0\OrientaçãoAObjIntro.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OrientaçãoAObjIntro\OrientaçãoAObjIntro\obj\Debug\net5.0\OrientaçãoAObjIntro.genruntimeconfig.cache

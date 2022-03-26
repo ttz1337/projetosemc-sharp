@@ -1,0 +1,16 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios3EstruturaCondicional\Exercicios3EstruturaCondicional\obj\Debug\net5.0\Exercicios3EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios3EstruturaCondicional\Exercicios3EstruturaCondicional\obj\Debug\net5.0\Exercicios3EstruturaCondicional.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios3EstruturaCondicional\Exercicios3EstruturaCondicional\obj\Debug\net5.0\Exercicios3EstruturaCondicional.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios3EstruturaCondicional\Exercicios3EstruturaCondicional\obj\Debug\net5.0\Exercicios3EstruturaCondicional.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios3EstruturaCondicional\Exercicios3EstruturaCondicional\bin\Debug\net5.0\Exercicios3EstruturaCondicional.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios3EstruturaCondicional\Exercicios3EstruturaCondicional\bin\Debug\net5.0\Exercicios3EstruturaCondicional.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios3EstruturaCondicional\Exercicios3EstruturaCondicional\bin\Debug\net5.0\Exercicios3EstruturaCondicional.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios3EstruturaCondicional\Exercicios3EstruturaCondicional\bin\Debug\net5.0\Exercicios3EstruturaCondicional.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios3EstruturaCondicional\Exercicios3EstruturaCondicional\bin\Debug\net5.0\Exercicios3EstruturaCondicional.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios3EstruturaCondicional\Exercicios3EstruturaCondicional\bin\Debug\net5.0\ref\Exercicios3EstruturaCondicional.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios3EstruturaCondicional\Exercicios3EstruturaCondicional\bin\Debug\net5.0\Exercicios3EstruturaCondicional.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios3EstruturaCondicional\Exercicios3EstruturaCondicional\obj\Debug\net5.0\Exercicios3EstruturaCondicional.csprojAssemblyReference.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios3EstruturaCondicional\Exercicios3EstruturaCondicional\obj\Debug\net5.0\Exercicios3EstruturaCondicional.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios3EstruturaCondicional\Exercicios3EstruturaCondicional\obj\Debug\net5.0\ref\Exercicios3EstruturaCondicional.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios3EstruturaCondicional\Exercicios3EstruturaCondicional\obj\Debug\net5.0\Exercicios3EstruturaCondicional.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercicios3EstruturaCondicional\Exercicios3EstruturaCondicional\obj\Debug\net5.0\Exercicios3EstruturaCondicional.genruntimeconfig.cache

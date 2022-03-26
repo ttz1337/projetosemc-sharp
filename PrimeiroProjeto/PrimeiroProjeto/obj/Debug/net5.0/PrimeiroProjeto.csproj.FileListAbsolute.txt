@@ -1,0 +1,16 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\ref\PrimeiroProjeto.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.csprojAssemblyReference.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\ref\PrimeiroProjeto.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.genruntimeconfig.cache

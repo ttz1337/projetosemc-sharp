@@ -1,0 +1,15 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\ref\OperadoresAritmeticos.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\ref\OperadoresAritmeticos.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.genruntimeconfig.cache

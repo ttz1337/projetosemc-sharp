@@ -1,0 +1,16 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresDeAtribuição\OperadoresDeAtribuição\bin\Debug\net5.0\OperadoresDeAtribuição.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresDeAtribuição\OperadoresDeAtribuição\bin\Debug\net5.0\OperadoresDeAtribuição.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresDeAtribuição\OperadoresDeAtribuição\bin\Debug\net5.0\OperadoresDeAtribuição.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresDeAtribuição\OperadoresDeAtribuição\bin\Debug\net5.0\OperadoresDeAtribuição.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresDeAtribuição\OperadoresDeAtribuição\bin\Debug\net5.0\OperadoresDeAtribuição.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresDeAtribuição\OperadoresDeAtribuição\bin\Debug\net5.0\ref\OperadoresDeAtribuição.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresDeAtribuição\OperadoresDeAtribuição\bin\Debug\net5.0\OperadoresDeAtribuição.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresDeAtribuição\OperadoresDeAtribuição\obj\Debug\net5.0\OperadoresDeAtribuição.csprojAssemblyReference.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresDeAtribuição\OperadoresDeAtribuição\obj\Debug\net5.0\OperadoresDeAtribuição.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresDeAtribuição\OperadoresDeAtribuição\obj\Debug\net5.0\OperadoresDeAtribuição.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresDeAtribuição\OperadoresDeAtribuição\obj\Debug\net5.0\OperadoresDeAtribuição.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresDeAtribuição\OperadoresDeAtribuição\obj\Debug\net5.0\OperadoresDeAtribuição.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresDeAtribuição\OperadoresDeAtribuição\obj\Debug\net5.0\OperadoresDeAtribuição.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresDeAtribuição\OperadoresDeAtribuição\obj\Debug\net5.0\ref\OperadoresDeAtribuição.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresDeAtribuição\OperadoresDeAtribuição\obj\Debug\net5.0\OperadoresDeAtribuição.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\OperadoresDeAtribuição\OperadoresDeAtribuição\obj\Debug\net5.0\OperadoresDeAtribuição.genruntimeconfig.cache

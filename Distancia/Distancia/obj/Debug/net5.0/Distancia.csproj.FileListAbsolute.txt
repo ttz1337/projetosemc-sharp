@@ -1,0 +1,16 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Distancia\Distancia\bin\Debug\net5.0\Distancia.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Distancia\Distancia\bin\Debug\net5.0\Distancia.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Distancia\Distancia\bin\Debug\net5.0\Distancia.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Distancia\Distancia\bin\Debug\net5.0\Distancia.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Distancia\Distancia\bin\Debug\net5.0\Distancia.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Distancia\Distancia\bin\Debug\net5.0\ref\Distancia.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Distancia\Distancia\bin\Debug\net5.0\Distancia.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Distancia\Distancia\obj\Debug\net5.0\Distancia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Distancia\Distancia\obj\Debug\net5.0\Distancia.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Distancia\Distancia\obj\Debug\net5.0\Distancia.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Distancia\Distancia\obj\Debug\net5.0\Distancia.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Distancia\Distancia\obj\Debug\net5.0\Distancia.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Distancia\Distancia\obj\Debug\net5.0\ref\Distancia.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Distancia\Distancia\obj\Debug\net5.0\Distancia.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Distancia\Distancia\obj\Debug\net5.0\Distancia.genruntimeconfig.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Distancia\Distancia\obj\Debug\net5.0\Distancia.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\net5.0\AnaliseCombinatoria.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\net5.0\AnaliseCombinatoria.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\net5.0\AnaliseCombinatoria.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\net5.0\AnaliseCombinatoria.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\net5.0\AnaliseCombinatoria.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\net5.0\ref\AnaliseCombinatoria.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\net5.0\AnaliseCombinatoria.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\net5.0\AnaliseCombinatoria.csprojAssemblyReference.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\net5.0\AnaliseCombinatoria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\net5.0\AnaliseCombinatoria.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\net5.0\AnaliseCombinatoria.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\net5.0\AnaliseCombinatoria.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\net5.0\AnaliseCombinatoria.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\net5.0\ref\AnaliseCombinatoria.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\net5.0\AnaliseCombinatoria.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\net5.0\AnaliseCombinatoria.genruntimeconfig.cache

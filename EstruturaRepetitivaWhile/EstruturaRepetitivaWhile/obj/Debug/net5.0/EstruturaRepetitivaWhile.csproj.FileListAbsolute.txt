@@ -1,0 +1,16 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\net5.0\EstruturaRepetitivaWhile.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\net5.0\EstruturaRepetitivaWhile.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\net5.0\EstruturaRepetitivaWhile.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\net5.0\EstruturaRepetitivaWhile.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\net5.0\EstruturaRepetitivaWhile.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\net5.0\ref\EstruturaRepetitivaWhile.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\net5.0\EstruturaRepetitivaWhile.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net5.0\EstruturaRepetitivaWhile.csprojAssemblyReference.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net5.0\EstruturaRepetitivaWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net5.0\EstruturaRepetitivaWhile.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net5.0\EstruturaRepetitivaWhile.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net5.0\EstruturaRepetitivaWhile.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net5.0\EstruturaRepetitivaWhile.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net5.0\ref\EstruturaRepetitivaWhile.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net5.0\EstruturaRepetitivaWhile.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net5.0\EstruturaRepetitivaWhile.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaFor\EstruturaRepetitivaFor\bin\Debug\net5.0\EstruturaRepetitivaFor.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaFor\EstruturaRepetitivaFor\bin\Debug\net5.0\EstruturaRepetitivaFor.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaFor\EstruturaRepetitivaFor\bin\Debug\net5.0\EstruturaRepetitivaFor.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaFor\EstruturaRepetitivaFor\bin\Debug\net5.0\EstruturaRepetitivaFor.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaFor\EstruturaRepetitivaFor\bin\Debug\net5.0\EstruturaRepetitivaFor.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaFor\EstruturaRepetitivaFor\bin\Debug\net5.0\ref\EstruturaRepetitivaFor.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaFor\EstruturaRepetitivaFor\bin\Debug\net5.0\EstruturaRepetitivaFor.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net5.0\EstruturaRepetitivaFor.csprojAssemblyReference.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net5.0\EstruturaRepetitivaFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net5.0\EstruturaRepetitivaFor.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net5.0\EstruturaRepetitivaFor.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net5.0\EstruturaRepetitivaFor.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net5.0\EstruturaRepetitivaFor.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net5.0\ref\EstruturaRepetitivaFor.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net5.0\EstruturaRepetitivaFor.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net5.0\EstruturaRepetitivaFor.genruntimeconfig.cache

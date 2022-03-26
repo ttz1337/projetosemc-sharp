@@ -1,0 +1,16 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\FunçõesSintaxe\FunçõesSintaxe\bin\Debug\net5.0\FunçõesSintaxe.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\FunçõesSintaxe\FunçõesSintaxe\bin\Debug\net5.0\FunçõesSintaxe.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\FunçõesSintaxe\FunçõesSintaxe\bin\Debug\net5.0\FunçõesSintaxe.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\FunçõesSintaxe\FunçõesSintaxe\bin\Debug\net5.0\FunçõesSintaxe.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\FunçõesSintaxe\FunçõesSintaxe\bin\Debug\net5.0\FunçõesSintaxe.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\FunçõesSintaxe\FunçõesSintaxe\bin\Debug\net5.0\ref\FunçõesSintaxe.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\FunçõesSintaxe\FunçõesSintaxe\bin\Debug\net5.0\FunçõesSintaxe.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\FunçõesSintaxe\FunçõesSintaxe\obj\Debug\net5.0\FunçõesSintaxe.csprojAssemblyReference.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\FunçõesSintaxe\FunçõesSintaxe\obj\Debug\net5.0\FunçõesSintaxe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\FunçõesSintaxe\FunçõesSintaxe\obj\Debug\net5.0\FunçõesSintaxe.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\FunçõesSintaxe\FunçõesSintaxe\obj\Debug\net5.0\FunçõesSintaxe.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\FunçõesSintaxe\FunçõesSintaxe\obj\Debug\net5.0\FunçõesSintaxe.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\FunçõesSintaxe\FunçõesSintaxe\obj\Debug\net5.0\FunçõesSintaxe.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\FunçõesSintaxe\FunçõesSintaxe\obj\Debug\net5.0\ref\FunçõesSintaxe.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\FunçõesSintaxe\FunçõesSintaxe\obj\Debug\net5.0\FunçõesSintaxe.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\FunçõesSintaxe\FunçõesSintaxe\obj\Debug\net5.0\FunçõesSintaxe.genruntimeconfig.cache

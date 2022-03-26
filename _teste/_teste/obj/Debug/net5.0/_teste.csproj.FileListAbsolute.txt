@@ -1,0 +1,16 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_teste\_teste\bin\Debug\net5.0\_teste.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_teste\_teste\bin\Debug\net5.0\_teste.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_teste\_teste\bin\Debug\net5.0\_teste.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_teste\_teste\bin\Debug\net5.0\_teste.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_teste\_teste\bin\Debug\net5.0\_teste.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_teste\_teste\bin\Debug\net5.0\ref\_teste.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_teste\_teste\bin\Debug\net5.0\_teste.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_teste\_teste\obj\Debug\net5.0\_teste.csprojAssemblyReference.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_teste\_teste\obj\Debug\net5.0\_teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_teste\_teste\obj\Debug\net5.0\_teste.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_teste\_teste\obj\Debug\net5.0\_teste.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_teste\_teste\obj\Debug\net5.0\_teste.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_teste\_teste\obj\Debug\net5.0\_teste.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_teste\_teste\obj\Debug\net5.0\ref\_teste.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_teste\_teste\obj\Debug\net5.0\_teste.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\_teste\_teste\obj\Debug\net5.0\_teste.genruntimeconfig.cache

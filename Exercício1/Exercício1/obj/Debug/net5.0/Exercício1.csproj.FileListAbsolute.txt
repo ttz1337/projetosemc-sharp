@@ -1,0 +1,15 @@
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercício1\Exercício1\bin\Debug\net5.0\Exercício1.exe
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercício1\Exercício1\bin\Debug\net5.0\Exercício1.deps.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercício1\Exercício1\bin\Debug\net5.0\Exercício1.runtimeconfig.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercício1\Exercício1\bin\Debug\net5.0\Exercício1.runtimeconfig.dev.json
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercício1\Exercício1\bin\Debug\net5.0\Exercício1.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercício1\Exercício1\bin\Debug\net5.0\ref\Exercício1.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercício1\Exercício1\bin\Debug\net5.0\Exercício1.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercício1\Exercício1\obj\Debug\net5.0\Exercício1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercício1\Exercício1\obj\Debug\net5.0\Exercício1.AssemblyInfoInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercício1\Exercício1\obj\Debug\net5.0\Exercício1.AssemblyInfo.cs
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercício1\Exercício1\obj\Debug\net5.0\Exercício1.csproj.CoreCompileInputs.cache
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercício1\Exercício1\obj\Debug\net5.0\Exercício1.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercício1\Exercício1\obj\Debug\net5.0\ref\Exercício1.dll
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercício1\Exercício1\obj\Debug\net5.0\Exercício1.pdb
+D:\Programas, sistemas, etc\Projetos_coding\ws_vsc2019\Exercício1\Exercício1\obj\Debug\net5.0\Exercício1.genruntimeconfig.cache
